@@ -1,2 +1,1 @@
-# setting-up-git
-testing to see if I can connect to git and rst
+Lets see if I can get this stupid thing to work anjwbfbwfbdwfj
